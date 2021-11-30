@@ -23,6 +23,17 @@ Below are relevants outcomes:
     - Denver: 306,055 votes which represents 82.78% of total votes
     - Arapahoe: 24,801 votes which represents 6.71% of votes
     
-    ![Count Vote Count](https://github.com/Akin-Olusuyi/election_analysis/blob/main/Resources/County%20Votes.png)
+    ![County Vote Count](https://github.com/Akin-Olusuyi/election_analysis/blob/main/Resources/County%20Votes.png)
     
+- The county with the largest votes is Denever
+
+- Individual Candidate Breakdown:
+    - Charles Casper Stockham : 85,213 votes which represents 23.0% of total votes
+    - Diana DeGette: 272,892 votes which represents 73.8% of total votes
+    - Raymon Anthony Doane: 11,606 votes which represents 3.1% of total votes
+
+- Diana DeGette with 272,892 votes which represents 73.8% of total votes
     
+    ![ Each Canadidate Breakdown](https://github.com/Akin-Olusuyi/election_analysis/blob/main/Resources/candidates%20breakdown%20and%20winner%20code.png)
+
+
