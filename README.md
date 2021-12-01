@@ -37,3 +37,7 @@ Below are relevants outcomes:
     ![ Each Canadidate Breakdown](https://github.com/Akin-Olusuyi/election_analysis/blob/main/Resources/candidates%20breakdown%20and%20winner%20code.png)
 
 
+## Election Audit Summary
+I believe there are so many more data points we can analyze by modifying our script: 
+    -   We could modify our script to capture demographic data in future elections (for example male vs female voters, age brackets, Income and so on)
+    - We could also use our script not just for elections but a state or nation wide survey. For example to find the total number of people that filled out the survey, will be the same logic as getting total votes. 
